@@ -5,4 +5,4 @@ MATLAB 2014b or higer version
 
 The main function is "ImageStitching_SIFT.m",run it and get the result.
 
-casc_zxy
+casc_zxy 2018/5/23
